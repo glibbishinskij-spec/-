@@ -1,0 +1,22 @@
+{
+    "name": "Глеб",
+    "tasks": [
+        {
+            "title": "Задача з фізики",
+            "subject": "Фізика",
+            "done": false
+        },
+        {
+            "title": "Python-проєкт",
+            "subject": "Інформатика",
+            "done": true
+        },
+        {
+            "title": "Конспект з біології",
+            "subject": "Біологія",
+            "done": false
+        }
+    ],
+    "theme": "dark",
+    "solutions": {}
+}
